@@ -19,7 +19,6 @@
 
 - [Теми проєктів](./guidelines/themes.md)
 - [Методичні вказівки](./guidelines/guidelines.md)
-- [Документація vuepress-theme-hope](https://theme-hope.vuejs.press/)
-- [Документація Markdown](https://theme-hope.vuejs.press/cookbook/markdown/)
+
   
 ***Happy learning! Happy coding!*** 
