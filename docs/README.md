@@ -7,12 +7,12 @@ footer: "ECL 2.0 Licensed | Copyright © [2024] [Siusiukov Volodymyr]"
 ---
 
 
-**Виконав**
+## **Виконав**
 
 студент 2-го курсу, групи ІМ-34 **Сюсюков Володимир** [Telegram](https://t.me/vova_siusiuk0v)
 
 
-**Керівник**
+## **Керівник**
 
 *доцент кафедри ОТ ФІОТ, к.т.н., доцент*<span padding-right:5em></span> **Андрій БОЛДАК** 
 
